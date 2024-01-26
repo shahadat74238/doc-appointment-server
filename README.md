@@ -1,5 +1,19 @@
 
 
+# Doc House Server
+
+## Technology
+
+- Node.js
+- Expression.js
+- Mongoose
+
+## Send mail:
+- Nodemailer
+
+
+
+
 ## Getting Started
 
 First, run the development server:
@@ -14,7 +28,13 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+
+
+
+
+
 
 
 
